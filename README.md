@@ -10,6 +10,28 @@ SmartRetriever is a Retrieval-Augmented Generation (RAG) platform that makes lar
 
 ---
 
+## Screenshots
+
+A look inside the SmartRetriever RAG platform.
+
+### AI Report Generator
+[![SmartRetriever AI report generator — structured inspection report form with header, building, assessment and recommendations sections](screenshots/report-generator.png)](screenshots/report-generator.png)
+*Generate structured reports from your document knowledge base — header information, building details, inspection findings, assessment, and recommendations, all assembled automatically.*
+
+### Hybrid AI Search — Semantic + Keyword
+[![SmartRetriever AI PDF search — semantic vector search and exact keyword search across uploaded document collections](screenshots/ai-search.png)](screenshots/ai-search.png)
+*Upload PDFs or ZIP files to the vector database, then query with semantic AI search or exact keyword search — sourced, accurate answers across every document.*
+
+### Secure Portal Login
+[![SmartRetriever login portal — secure access to the RAG document search and report generation platform](screenshots/login.png)](screenshots/login.png)
+*Role-based access to the document intelligence portal.*
+
+### Admin Dashboard
+[![SmartRetriever admin dashboard — user and role management for the document search platform](screenshots/admin-dashboard.png)](screenshots/admin-dashboard.png)
+*User and role management — control who can access and manage the knowledge base.*
+
+---
+
 ## What is SmartRetriever?
 
 **SmartRetriever is a RAG-based document retrieval and intelligence system.** It ingests your PDFs and DOCX files, indexes them for both meaning-based (vector) and exact (keyword) search, and lets you retrieve precise answers backed by the source material. It can also generate structured reports from the retrieved content.

@@ -1,11 +1,10 @@
 # Screenshots
 
-This folder is for product screenshots and visual media used in the showcase.
+Product screenshots used in the [main README](../README.md).
 
-Suggested images to add:
-- `search.png` — the search/query interface
-- `results.png` — sourced answer results
-- `ingestion.png` — document ingestion view
-- `report.png` — a generated report
-
-Once added, reference them in the main [README](../README.md) to make the showcase more compelling for visitors and clients.
+| File | Description |
+|------|-------------|
+| `report-generator.png` | AI Report Generator — structured report assembly from the document knowledge base. |
+| `ai-search.png` | Hybrid AI search — semantic vector search and exact keyword search across uploaded documents. |
+| `login.png` | Secure portal login — role-based access to the document intelligence platform. |
+| `admin-dashboard.png` | Admin dashboard — user and role management for the knowledge base. |
