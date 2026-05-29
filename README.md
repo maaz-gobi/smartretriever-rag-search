@@ -1,5 +1,36 @@
 # SmartRetriever — RAG Document Search & Report Generation
 
+<!-- recruiter-snapshot:start -->
+## Recruiter Snapshot
+
+**What this shows:** RAG document search and report generation platform combining semantic search, keyword search, and structured reports.
+
+**My role / team role:** Created the RAG workflow documentation, report-generation flow, access-control story, and technical product case study.
+
+**Public proof:** Screenshots show AI report generation, hybrid search, login portal, and admin dashboard.
+
+**Tech and implementation areas:**
+- Python
+- Vector search
+- Keyword search
+- RAG workflow
+- Report generation
+- Role-based dashboard
+
+**Relevant roles this project supports:**
+- RAG Engineer
+- AI Search Developer
+- Document Intelligence Developer
+- Full-Stack AI Engineer
+
+## Source Code Access
+
+This is a public case-study repository. The production source code is private because it may contain proprietary business logic, client workflows, credentials, deployment details, or reusable internal implementation patterns. The public repo is intentionally focused on the product, screenshots, workflow, architecture, and evaluation material.
+
+For technical review, we can provide a live demo walkthrough, private repository access under NDA, a code screen-share, architecture review, or redacted implementation samples.
+<!-- recruiter-snapshot:end -->
+
+
 > **Ask questions across all your documents and get accurate, sourced answers — plus automated reports.**
 
 SmartRetriever is a Retrieval-Augmented Generation (RAG) platform that makes large document collections searchable, answerable, and report-ready. It combines semantic vector search with keyword search so nothing gets missed.
